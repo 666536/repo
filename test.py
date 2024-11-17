@@ -13,7 +13,6 @@ def bubble_sort(arr):
             break
     return arr
 
-# 示例使用
 arr = [64, 34, 25, 12, 22, 11, 90]
 sorted_arr = bubble_sort(arr)
 print("Sorted array:", sorted_arr)
